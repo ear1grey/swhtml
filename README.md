@@ -16,6 +16,7 @@ NB: Start your filename with the number of characters therein - e.g. `solutions/
 
 Contributors
 ------------
-[Jacek Kopecky] (https://github.com/jacekkopecky), 
-[Rich Boakes] (https://github.com/ear1grey), 
-[Dan Harper] (http://github.com/danharper), 
+[Jacek Kopecky] (https://github.com/jacekkopecky),
+[Rich Boakes] (https://github.com/ear1grey),
+[Dan Harper] (http://github.com/danharper),
+[Ed Slipszenko] (http://github.com/slipszenko)
