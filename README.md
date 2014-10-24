@@ -13,3 +13,9 @@ JS, CSS, tricks, hacks, whatever: are all fair game - there are no MUST NOT's - 
 Send us a pull request with your solution to include it in the hall of fame.
 
 NB: Start your filename with the number of characters therein - e.g. `solutions/js/142_boakes_kopecky.html` contains 142 characters.  All contributions welcome.
+
+Contributors
+------------
+[Jacek Kopecky] (https://github.com/jacekkopecky), 
+[Rich Boakes] (https://github.com/ear1grey), 
+[Dan Harper] (http://github.com/danharper), 
